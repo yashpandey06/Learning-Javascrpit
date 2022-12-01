@@ -1,0 +1,1 @@
+//  arrays.reduce() methode
