@@ -10,6 +10,7 @@ s.forEach(print);
 function check(item,index,n){
 return item>2;
 }
-function print(item){
-console.log(item);
+function print(item,index){
+console.table(item);
+console.table(index);
 }

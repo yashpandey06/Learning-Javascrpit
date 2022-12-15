@@ -5,7 +5,6 @@ let shopping_store=new Map([
     // key,value
 ]);
 shopping_store.set("hat",50+`$`);
-
 shopping_store.forEach(print);
 // you have to pass like value,key
 function print(item1,item2){
